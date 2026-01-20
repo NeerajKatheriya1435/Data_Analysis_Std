@@ -65,5 +65,33 @@ import numpy as np
 
 # l1=[i*2 for i in range(1,10)]
 # print(l1)
+import numpy as np
 
-print(np.arange(1,21)*2)
+# arr = np.array([10, 20, 30, 40])
+# arr[2]=90
+# x=arr.copy()
+
+# # arr[0]=100
+
+# print(arr)
+# print("------------")
+# print(x)
+
+# arr = np.array([10, 20, 30, 40])
+
+# y=arr
+
+# arr[2]=90
+
+# print(arr)
+# print(y)
+
+# arr = np.array([10, 20, 30, 40])
+
+# x=arr.copy()
+
+# arr[2]=100
+
+# print(arr)
+# print("------------")
+# print(x)
